@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
+
+  
+.grey-box {
+    background: #F5F1DA;
+    height: 35px;
+}
+
+.darkblue-box {
+    background: #00416D;
+    height: 200px;
+}
+
+.blank-box {
+    background: #F5F1DA;
+    height: 50px;
+}
+
+.outer-box {
+    border: 10px solid;
+    border-left-width: 15px;
+    border-right-width: 15px;
+}
+
+.light-orange-box {
+    background: #F8BD7F;
+    height: 450px;
+    border: 8px solid;
+}
+
+.peach-box {
+    background: #FFBB91 ;
+    height: 150px;
+    border-top: 3px solid;
+}
