@@ -1,0 +1,94 @@
+nav {
+    border-bottom: 2px solid #1f7837;
+}
+
+.reg-text {
+    color: #1f7837;
+    font-size: 26px;
+    font-weight: 600;
+}
+
+.reg-head {
+    text-align: center;
+    padding: 25px;
+}
+
+.wrapper {
+    text-align: center;
+    width: 500px;
+    margin: 0 auto;
+    height: 570px;
+    border: 3px solid #1f7837;
+    border-radius: 10px;
+}
+
+.phy-add-id {
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.phy-add-id-text {
+    padding: 5px;
+    color: #1f7837;
+    font-weight: 600;
+}
+
+.res-info {
+    color: #777777;
+    font-size: 12px;
+    float: right;
+    font-weight: 600;
+}
+
+.form-group {
+    display: inline-block;
+    width: 70%;
+    position: relative;
+    margin-bottom: 0px;
+    text-align: left;
+}
+
+.form-control {
+    height: 42px !important;
+    border: solid 1px #d4d4d4;
+    font-size: 13px;
+    color: #777777;
+    width: 100%;
+    margin-bottom: 4%;
+    padding: 6px 4px;
+}
+
+.form-group label {
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 1px;
+    position: absolute;
+    background: white;
+    left: 10px;
+    top: -10px;
+    padding: 0 2px;
+    color: #1f7837;
+}
+
+.form-control:focus {
+    border-color: #0078B7;
+}
+
+
+.back-btn {
+    color: #ffffff;
+    font-weight: 600;
+    padding: 8px 30px;
+    border: none;
+    background: #777777;
+    border-radius: 5px;
+}
+
+.save-btn {
+    color: #ffffff;
+    font-weight: 600;
+    padding: 8px 50px;
+    border: none;
+    background: #1f7837;
+    border-radius: 5px;
+}
