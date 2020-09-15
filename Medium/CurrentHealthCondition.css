@@ -1,0 +1,112 @@
+li {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 750px;
+    height: auto;
+    background: #f6fffe;
+    border: none;
+    border-radius: 6px;
+}
+
+.sub-wrapper {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.chc-head {
+    color: #43c8db;
+    text-align: center;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.life-threatening {
+    color: #b7bbbb;
+    margin-left: 15px;
+    font-weight: 600;
+}
+
+.card-body {
+    background: #fff;
+    margin-top: 15px;
+    padding: 10px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.15);
+    border-radius: 3px;
+}
+
+.card-body:hover {
+    background: #fff;
+    padding: 10px;
+    border: 2px solid #43c8db;
+    border-radius: 4px;
+}
+
+.card-radio {
+    margin-top: 15px;
+    color:#00b2d8;
+}
+
+.card-text {
+    color: #b7bbbb;
+    font-weight: 600;
+}
+
+.card-text:hover {
+    color: #00b2d8;
+}
+
+.cancel-btn {
+    background: #f85544;
+    color: #fff;
+    font-weight: 600;
+    padding: 4px 26px;
+    border: none;
+    border-radius: 5px;
+}
+
+.save-btn {
+    background: #00b2d8;
+    color: #fff;
+    font-weight: 600;
+    padding: 4px 32px;
+    border: none;
+    border-radius: 5px;
+}
+
+.reset-btn {
+    background: #9d9d9d;
+    color: #fff;
+    font-weight: 600;
+    padding: 4px 81px;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn-pos {
+    padding-top: 15px;
+    padding-bottom: 10px;
+    margin-left: 90px;
+}
+
+.reset-pos {
+    padding-top: 5px;
+    padding-bottom: 10px;
+    margin-left: 90px;  
+}
+
+/* .left {
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+}
+
+.arrow {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+} */
